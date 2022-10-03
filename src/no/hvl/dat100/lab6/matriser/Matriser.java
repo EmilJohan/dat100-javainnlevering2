@@ -116,27 +116,23 @@ public class Matriser {
 	// e)
 	public static int[][] speile(int[][] matrise) {
 
-        int r, c;
-		r = matrise.length;
-		c = matrise[0].length;
+//        int r, c;
+//		r = matrise.length;
+//		c = matrise[0].length;
+//		
+//		for(int i=0; i<r; i++) 
+//		{
+//			for(int j=(c-1);j>=0;j--)
+//			{
+//				System.out.print(matrise[i][j]);
+//			}
+//			    System.out.println();	
+//			}
+//		
 		
-		for(int i=0; i<r; i++) 
-		{
-			for(int j=(c-1);j>=0;j--)
-			{
-				System.out.print(matrise[i][j]);
-			}
-			    System.out.println();	
-			}
-		
-		
-
-
-
-
 
 		// TODO
-	//	throw new UnsupportedOperationException("speile ikke implementert");
+		throw new UnsupportedOperationException("speile ikke implementert");
 	
 	}
 
