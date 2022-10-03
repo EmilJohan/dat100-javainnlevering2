@@ -111,11 +111,10 @@ public class Matriser {
 //			}
 //			return flag;
 //        }
-	
 
 	// e)
 	public static int[][] speile(int[][] matrise) {
-
+//
 //        int r, c;
 //		r = matrise.length;
 //		c = matrise[0].length;
@@ -127,9 +126,9 @@ public class Matriser {
 //				System.out.print(matrise[i][j]);
 //			}
 //			    System.out.println();	
-//			}
+//		}
 //		
-		
+//		
 
 		// TODO
 		throw new UnsupportedOperationException("speile ikke implementert");

@@ -10,6 +10,7 @@ import org.junit.rules.Timeout;
 
 class TabellerEnhetsTester {
 
+	
 	@Rule
 	public TestRule globalTimeout = Timeout.seconds(30);
 
